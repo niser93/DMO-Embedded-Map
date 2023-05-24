@@ -1,7 +1,9 @@
 ## Tempo preventivato
 
 Fase di studio e fattibilità: 5h
+
 Fase di programmazione: 25h
+
 Fase di supporto: 520 minuti (circa 10 minuti a settimana)
 
 Totale 40h
